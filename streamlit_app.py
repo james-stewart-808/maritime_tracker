@@ -28,7 +28,7 @@ main = st.Page("main.py", title="Home", icon="🏡")
 
 
 # Set up navigation
-#pg = st.navigation([main])#, inventories, trade, impact_tracking]) #, example_page])
+pg = st.navigation([main])#, inventories, trade, impact_tracking]) #, example_page])
 
 # Run the selected page
 #pg.run()
