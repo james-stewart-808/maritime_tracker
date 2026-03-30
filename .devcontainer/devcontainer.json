@@ -6,7 +6,7 @@
     "codespaces": {
       "openFiles": [
         "README.md",
-        "maritime_tracker.py"
+        "streamlit_app.py"
       ]
     },
     "vscode": {
